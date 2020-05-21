@@ -6,7 +6,7 @@ void setup() {
   Serial.begin(9600);
   Wire.begin();
   mpu6050.begin();
-  mpu6050.setGyroOffsets(2.66, -3.84, -0.47); // calibrated gyroscope parameters 
+  mpu6050.setGyroOffsets(2.66, -3.84, -0.47); // calibrated gyroscope parameters (example offsets) 
   // timer = millis(); // set the timer.
 }
 void loop() {
