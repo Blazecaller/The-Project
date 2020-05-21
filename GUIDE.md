@@ -3,7 +3,7 @@ Complementary_filter.ino          : Uses Tockn library. The serial output of thi
 
 Measure_angle_Arduino_MPU6050.ino : Example code for understanding the concept of filtering and IMU registers.
 
-Sensor_Cube_rev.py                : Vpython real time simulation part.
+Sensor_Cube_rev.py                : Vpython real time simulation.
 
 datareading.ino                   : ADXL-345 calibration functions.
 
